@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "report2.html",
+    "href": "report2.html",
+    "title": "Report 2",
+    "section": "",
+    "text": "Here is report 2!",
+    "crumbs": [
+      "Reports",
+      "Report 2"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About My Analytics Project",
+    "section": "",
+    "text": "All about my analytics project",
+    "crumbs": [
+      "About My Analytics Project"
+    ]
+  },
+  {
+    "objectID": "report1.html",
+    "href": "report1.html",
+    "title": "Report 1",
+    "section": "",
+    "text": "Here is report 1!",
+    "crumbs": [
+      "Reports",
+      "Report 1"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Analytics Project",
+    "section": "",
+    "text": "Welcome!\n\n\nCode\nChickWeight |&gt;\n  group_by(Diet, Time) |&gt;\n  summarize(avgWeight=mean(weight)) |&gt;\n  ggplot(mapping = aes(x=Time, y=avgWeight, color=Diet))+\n  geom_line()+\n  labs(title=\"Comparison of Chick Weights by Diet Over Time\", x=\"Days\", y=\"Weight(g)\")",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
