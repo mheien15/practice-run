@@ -1,0 +1,9 @@
+---
+title: "Report 2"
+format: html
+editor: visual
+execute:
+  warning: false
+---
+
+Here is report 2!
